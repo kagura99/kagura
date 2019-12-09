@@ -1,4 +1,4 @@
-name: Kagura
+name: Kagura:*
 
 on: [push]
 
